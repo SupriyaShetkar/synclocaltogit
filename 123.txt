@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Adding tag
-=======
-hello!!!
->>>>>>> bb8a23f (Push tag)
